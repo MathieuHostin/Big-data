@@ -18,3 +18,11 @@
 ![](https://github.com/MathieuHostin/Big-data/blob/main/Pi-estimator/Image/Output.PNG)
 *Capture d'écran n°3 : Résultat*
 
+
+:point_right: Tableau récapitulatif de l'estimation de pi et des temps d'exécutions
+
+|    n = 100000     |  Spark   |   numpy  |
+|-------------------|----------|----------|
+| Temps d'exécution |  9.813s  |  0.014s  |
+|   Valeurs de pi   | 3.137480 | 3.132760 |
+|  écart % Math.pi  |  -0.24%  |  -0.40%  |
