@@ -13,3 +13,7 @@ L'objectif principal de ce projet est de proposer un k-means clustering de Brist
 
 On observe distinctement les emplacements de stations vélos en trois couleurs : Noir, Bleu et Rouge. Ces emplacements sont donc répartis en 3 clusters à travers la ville
 
+:point_right: Un dossier "exported" est ainsi créé dans votre répertoire où vous trouverez un fichier CSV contenant la data.frame "fitted" suivante :
+
+<img src="output/fitted.PNG" 
+  style="float: center; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" />
