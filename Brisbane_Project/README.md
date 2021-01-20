@@ -8,7 +8,8 @@ L'objectif principal de ce projet est de proposer un k-means clustering de Brist
 
 :point_right: Vous obtiendrez la map suivante : 
 
-SCREEEEEEEEEEEEEEEEEEEEEEEEEEEEN DU MAAAAAAAAAAP
+<img src="output/MAP.png" 
+  style="float: center; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" />
 
 On observe distinctement les emplacements de stations vélos en trois couleurs : Noir, Bleu et Rouge. Ces emplacements sont donc répartis en 3 clusters à travers la ville
 
